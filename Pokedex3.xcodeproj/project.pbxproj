@@ -12,6 +12,7 @@
 		CAD357D51FD93EE8000B1FD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAD357D31FD93EE8000B1FD6 /* Main.storyboard */; };
 		CAD357D71FD93EE8000B1FD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAD357D61FD93EE8000B1FD6 /* Assets.xcassets */; };
 		CAD357DA1FD93EE8000B1FD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAD357D81FD93EE8000B1FD6 /* LaunchScreen.storyboard */; };
+		CAD357E21FD944CF000B1FD6 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = CAD357E11FD944CF000B1FD6 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		CAD357D61FD93EE8000B1FD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CAD357D91FD93EE8000B1FD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CAD357DB1FD93EE8000B1FD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAD357E11FD944CF000B1FD6 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				CAD357D11FD93EE8000B1FD6 /* ViewController.swift */,
 				CAD357D31FD93EE8000B1FD6 /* Main.storyboard */,
 				CAD357D61FD93EE8000B1FD6 /* Assets.xcassets */,
+				CAD357E11FD944CF000B1FD6 /* pokemon.csv */,
 				CAD357D81FD93EE8000B1FD6 /* LaunchScreen.storyboard */,
 				CAD357DB1FD93EE8000B1FD6 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				CAD357DA1FD93EE8000B1FD6 /* LaunchScreen.storyboard in Resources */,
 				CAD357D71FD93EE8000B1FD6 /* Assets.xcassets in Resources */,
+				CAD357E21FD944CF000B1FD6 /* pokemon.csv in Resources */,
 				CAD357D51FD93EE8000B1FD6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
